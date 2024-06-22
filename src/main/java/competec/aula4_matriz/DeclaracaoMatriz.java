@@ -9,7 +9,9 @@ public class DeclaracaoMatriz {
         int numAlunos = 30, numDisciplinas = 3;
 
         //declare sua matriz aqui
+        int tabela[][] = new int [numAlunos][numDisciplinas];
 
         // Qual o significado de uma linha na sua matriz? R:
+        Alunos
     }
 }
